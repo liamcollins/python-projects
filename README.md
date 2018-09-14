@@ -20,3 +20,5 @@ Note also that because of the large number of propellors processed, along with t
 -- Prop Processing-Actual Prop:
 
 Same script as above, but limited to just the one prop which we chose for our plane, this script will show the same functionality but run much more quickly since it just analyzes a single prop.
+
+Note that both of these files will require you to extract the UIUC database zip file to run if downloaded.
